@@ -8,3 +8,13 @@ The 2018 federal elections in Mexico brought significant changes in the countryâ
 
 This repository features both the .Rmd file and its knitted PDF counterpart, providing a comprehensive walkthrough of the entire research journey. Uncover the intricacies of data collection and cleaning, delve into the employed methodologies encompassing topic modeling and lexicon-based approaches, and explore the enlightening findings and conclusive insights.
 
+**Prerequisites:**
+
+- Tidyverse
+- RSelenium
+- Quanteda
+- Quanteda.textstats
+- Quanteda.textmodels
+- Topicmodels
+- ggpubr
+
