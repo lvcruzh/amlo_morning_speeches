@@ -1,6 +1,6 @@
 ---
 title: "**Analysing Mexico's President speeches: A study of political propaganda and populist rhetoric in AMLO's press conferences**"
-author: "LSE candidate number: 55367"
+author: "Luis Valentin Cruz"
 output: pdf_document
 date: "2023-05-02"
 ---
